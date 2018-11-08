@@ -8,6 +8,13 @@
   <artifactId>owasp-dependency-check-sample</artifactId>
   <version>3.3.4</version>
 
+  <repositories>
+    <repository>
+      <id>repo.jenkins-ci.org</id>
+      <url>https://repo.jenkins-ci.org/public/</url>
+    </repository>
+  </repositories>
+
   <prerequisites>
     <maven>${maven.api.version>}</maven>
   </prerequisites>
