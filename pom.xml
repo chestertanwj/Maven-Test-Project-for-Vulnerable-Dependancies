@@ -21,9 +21,9 @@
   <dependencies>
     <!-- sample dependency to scan for vulnerabilities -->
 	<dependency>
-		<groupId>org.apache.httpcomponents</groupId>
-		<artifactId>httpclient</artifactId>
-		<version>4.0.1</version>
+		<groupId>org.jenkins-ci.plugins</groupId>
+		<artifactId>subversion</artifactId>
+		<version>1.45</version>
 	</dependency>
   </dependencies>
 
